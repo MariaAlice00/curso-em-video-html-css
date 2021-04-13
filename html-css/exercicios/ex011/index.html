@@ -11,7 +11,23 @@
     <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
 
     <picture>
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png">
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png"> <!--coloque 50px a mais-->
         <img src="imagens/foto-g.png" alt="Imagem flexível">
     </picture>
+
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+    <!--<audio src="midia/happy-mistake.mp3" controls autoplay></audio>-->
+    <!--MP3 WAV OGG-->
+    <!--caso tivesse tipos diferentes de áudio-->
+    <!--vai testando cada um dos tipos, se não, aparece a imagem-->
+    <audio preload="metadata" controls> <!--auto: só carrega o site, quando o áudio carrega, isso é perigoso-->
+        <source src="midia/guanacast-33.mp3" type="audio/mpeg">
+        <source src="midia/guanacast-33.ogg" type="audio/ogg">
+        <source src="midia/guanacast-33.wav" type="audio/wav">
+        <p>Infelizmente ser navegador não consegue reproduzir áudio. <a href="midia/guanacast-33.mp3">Clique aqui para baixar o arquivo MP3</a>.</p>
+    </audio>
+    <!--Cuidado com áudios WAV, são muito pesados-->
 </body>
 </html>
