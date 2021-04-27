@@ -1,0 +1,83 @@
+DICAS
+
+Rolando a página com diferentes produtos, tons mudam.
+Exemplos de sites:
+-> calem - vinho
+-> takearecess - refrigerante
+-> cedripereira.com
+
+HARMONIA DE CORES
+
+Círculo cromático
+
+                    amarelo
+amarelo-esverdeado           amarelo-alaranjado  
+verde                                   laranja
+azul-esverdeado             vermelho-alaranjado
+azul                                    vermelho
+azul-arroxeado              vermelho-arroxeado
+                    violeta
+
+
+Cores primárias     Cores secundárias     Cores terciárias   
+-> amarelo          -> laranja            -> amarelo-esverdeado 
+-> vermelho         -> violeta            -> amarelo-alaranjado
+-> azul             -> verde              -> vermelho-alaranjado
+                                          -> vermelho-arroxeado
+                                          -> azul-arroxeado
+                                          -> azul-esverdeado
+
+Temperatura de Cores
+Cores frias
+-> verde              
+-> amarelo-esverdeado 
+-> azul-esverdeado
+-> azul             
+-> azul-arroxeado
+-> violeta           
+
+Cores quentes
+-> amarelo          
+-> amarelo-alaranjado
+-> laranja            
+-> vermelho-alaranjado
+-> vermelho                     
+-> vermelho-arroxeado
+
+Dica: escolha uma média de 4 cores para a paleta do site
+Mínimo: 3 cores
+Máximo: 5 cores
+
+Cores complementares (que tem mais contrastes, opostas no círculo)
+Exemplo: violeta com amarelo, vermelho com verde, azul com laranja
+
+Cores análogas (que não tem tanto contraste, cores vizinhas)
+Exemplo: violeta com vermelho-arroxeado e azul-arroxeado
+
+Cores análogas e uma complementar
+Exemplo: violeta, vermelho-arroxeado, azul-arroxeado e amarelo
+Exemplo: laranja, amarelo-alaranjado, vermelho-alaranjado e azul
+
+Cores análogas relacionadas (duas cores vizinhas, pula uma e pega a outra)
+Exemplo: amarelo, amarelo-alaranjado, laranja (pula), vermelho-alaranjado
+Exemplo: amarelo-alaranjado, amarelo, amarelo-esverdeado (pula), verde
+
+Cores intercaladas
+Exemplo: amarelo, amarelo-alaranjado(pula), laranja, vermelho-alaranjado (pula), vermelho
+
+Cores triádicas (pula três cores)
+Exemplo: amarelo, azul, vermelho
+
+Cores em quadrado (pula duas cores)
+Exemplo: amarelo, vermelho-alaranjado, violeta, azul-esverdeado
+
+Cores tetrádicas (duas cores e duas complementares) retângulo
+Exemplo: verde com vermelho e azul com laranja
+
+Monocromia (trabalha com uma cor)
+Exemplo: laranja (modifica luminosidade e saturação), diferentes tons de laranja (degradê)
+
+Dica de site para criar paletas: adobe color (muito bom), paletton, coolors
+
+Capturar cores
+-> Extensão colorzilla
