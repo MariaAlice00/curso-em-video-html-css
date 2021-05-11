@@ -1,0 +1,20 @@
+Conteúdo:
+height -> altura
+width -> largura
+
+border -> borda
+outline -> contorno da borda
+
+padding -> entre linha do conteúdo e linha da borda, da borda pra dentro
+
+margin -> da borda pra fora
+
+height e width
+padding
+border
+outline
+margin
+
+Tipos de caixa
+box-level-> quebra a linha - DIV
+inline-level -> não quebra linha - SPAN
