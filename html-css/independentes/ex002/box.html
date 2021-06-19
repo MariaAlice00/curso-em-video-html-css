@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Caixas</title>
+    <style>
+        h1, h3 {
+            text-align: center;
+            font-family: sans-serif;
+        }
+        .caixas {
+            display: flex;
+            justify-content: center;
+        }
+        .box {
+            display: inline-block;
+            padding: 32px 58px;
+            margin: 10px 20px;            
+        }
+        .boxUm {
+            background-color: salmon;
+        }
+        .boxUm:hover {
+            background-color: rgb(226, 75, 58);
+        }
+        .boxDois {
+            background-color: blueviolet;
+        }
+        .boxDois:hover {
+            background-color: rgb(64, 8, 117);
+        }
+        .boxTres {
+            background-color: aquamarine;
+        }
+        .boxTres:hover {
+            background-color: rgb(32, 138, 103);
+        }
+    </style>
+</head>
+<body>
+    <h1>Box-Model</h1>
+    <div class="caixas">
+        <div class="box boxUm">
+            <h3>Caixa 1</h2>
+        </div>
+        <div class="box boxDois">
+            <h3>Caixa 2</h2>
+        </div>
+        <div class="box boxTres">
+            <h3>Caixa 3</h2>
+        </div>
+    </div>
+</body>
+</html>
